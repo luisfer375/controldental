@@ -1,0 +1,1 @@
+programa que permita controlar, revisar y actualizar las citas, historico clinico y control de recetas de los pacientes en un consultorio de servicio dental.
